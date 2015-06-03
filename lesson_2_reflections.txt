@@ -10,3 +10,6 @@ How is the staging area different from the working directory and the repository?
 
 * By moving files here you can review what changes you will push and make changes to as you need before making a commit.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+* When you run git status to check the staging area it shows what is there and you can remove files prior to adding them and making your commit.
