@@ -19,3 +19,7 @@ What are some situations when branches would be helpful in keeping your history 
 * Branches are good for trying out new features or making changes that break the original project in some way.
 
 * Branches help by keeping the changes separate without having to manage separate file bases.
+
+How do the diagrams help you visualize the branch structure?
+
+* Seeing how branches, and changes, relate to each other provides an easier way to understand how branches work.
