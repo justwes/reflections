@@ -1,3 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 * If I am working in a temp environment/computer and have no need to keep local copies. Or perhaps I am just updating some spelling errors etc... on the Readme.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+* There may be an unexpected conflict with the remote changes. Or the changes remotely you may not want to have merged into your local master.
