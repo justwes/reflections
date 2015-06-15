@@ -17,3 +17,7 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 * The last known state has the history of all previous commits and changes made before. When you make commits you will have an easier time of merging back into the master branch later.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+* Would use Dropbox and manage via version folders and file numbers. Easier as there is no CLI system to deal with but with no real change tracking.
