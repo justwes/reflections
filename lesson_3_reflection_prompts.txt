@@ -21,3 +21,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 * Would use Dropbox and manage via version folders and file numbers. Easier as there is no CLI system to deal with but with no real change tracking.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+* Feature changes are ideal to have in a separate branch for testing and adding to the master. Also if you have multiple folks working on the same project it's easier to keep changes separate for later merging.
